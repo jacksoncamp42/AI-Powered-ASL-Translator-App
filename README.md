@@ -1,4 +1,4 @@
-# ASL Machine Learning Interpreter Application
+# AI-Powered ASL Translator App
 
 Welcome to the repository of our ASL (American Sign Language) Machine Learning Interpreter application. This project is designed to recognize and interpret sign language from static images and live videos. 
 
